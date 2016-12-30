@@ -1,0 +1,24 @@
+提供百度网盘下载地址：
+http://pan.baidu.com/s/1qXSRokc
+
+rfcn20w_20w_fusion.txt
+rfcn20w_20w_test_fusion.txt
+r-fcn res101在复赛集上训练20w次的结果，分别为训练和测试集
+
+rfcn20w_finetune_nms300_fusion_test.txt
+rfcn20w_finetune_test_fusion.txt
+rfcn20w_finetune_train_fusion.txt
+在上述模型上使用初赛数据集finetune的结果，在测试集上rpn nms出框个数分别为300和400
+
+resnet50_10w_train_fusion.txt
+resnet50_20w_test_fusion.txt
+resnet50_20w_train_fusion.txt
+resnet50_30w_train_fusion.txt
+r-fcn res50以cls_score权重为2训练的结果
+
+resnet50_finetune_test_fusion.txt
+resnet50_finetune_train_fusion.txt
+在上述模型上以cls_score权重为4 finetune的结果
+
+resnet50_faster_rcnn_test.txt
+最后训练的resnet50 faster r-cnn的结果

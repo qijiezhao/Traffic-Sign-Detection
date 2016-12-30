@@ -1,0 +1,6 @@
+d:\personnal stuff\library\_documents\visual studio 2015\Projects\WriteXML\bin\Debug\WriteXML.exe.config
+d:\personnal stuff\library\_documents\visual studio 2015\Projects\WriteXML\bin\Debug\WriteXML.exe
+d:\personnal stuff\library\_documents\visual studio 2015\Projects\WriteXML\bin\Debug\WriteXML.pdb
+d:\personnal stuff\library\_documents\visual studio 2015\Projects\WriteXML\obj\Debug\WriteXML.exe
+d:\personnal stuff\library\_documents\visual studio 2015\Projects\WriteXML\obj\Debug\WriteXML.pdb
+d:\personnal stuff\library\_documents\visual studio 2015\Projects\WriteXML\obj\Debug\WriteXML.csprojResolveAssemblyReference.cache

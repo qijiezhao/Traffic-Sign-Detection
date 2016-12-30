@@ -1,0 +1,11 @@
+calculate_map.py 计算map并绘制pr曲线
+convert_format.py 将输出转化为csv格式
+convert_image.py 把图片转化为jpg格式
+crop_image.py 切割图像
+ensemble.py 模型混合
+filter.py 过滤车辆检测的结果
+fusion.pu 合并两张半图的检测结果
+WriteXML 之前生成xml
+generate_xml.py 生成xml文件（python实现）
+size_statistics.py 统计box大小分布曲线
+visualize 数据可视化
